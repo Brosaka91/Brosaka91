@@ -1,0 +1,11 @@
+{
+    "courses": {
+        "enrolled": [],
+        "taught": []
+    },
+    "user_data": {
+        "activity": [],
+        "submitted_work": [],
+        "surveys": []
+    }
+}
